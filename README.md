@@ -1,6 +1,6 @@
 ## Content
 
-This repo contains kind of phases of the evolution of an server.js file.
+This repo contains kind of the evolution of a server.js file.
 
 This repo is related to:
 
